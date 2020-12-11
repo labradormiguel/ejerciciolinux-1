@@ -1,4 +1,5 @@
 # Ejercicios-comandos-linux
+# Editado por varios a la vez
 Ejercicios comandos Linux
  
 1. Listar todos los archivos del directorio bin.  
